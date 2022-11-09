@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyChain.ReadFiles", "SafetyChain.ReadFiles\SafetyChain.ReadFiles.csproj", "{EFEEA2E0-ABFF-4515-BCF2-76C171AEAD88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEEA2E0-ABFF-4515-BCF2-76C171AEAD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEEA2E0-ABFF-4515-BCF2-76C171AEAD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEEA2E0-ABFF-4515-BCF2-76C171AEAD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEEA2E0-ABFF-4515-BCF2-76C171AEAD88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F13B9D-66B0-4ED4-BEE7-EF6D5A168B21}
+	EndGlobalSection
+EndGlobal
